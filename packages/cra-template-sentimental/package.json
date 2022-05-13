@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-sentimental",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "emotion",
+    "emotion-js"
+  ],
+  "description": "Template for Create React App to use Emotion easily.",
+  "authors": "jonghopark95 (https://github.com/jonghopark95)",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "license": "MIT"
+}
