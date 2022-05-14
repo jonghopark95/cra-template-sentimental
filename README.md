@@ -1,8 +1,8 @@
-# cra-template-sentimental
-
 <div align="center">
-  <img src="./assets/sentimental.png" width="520px">
+  <img src="./assets/sentimental.png" width="360px">
 </div>
+
+# cra-template-sentimental
 
 This is template for [Create React App](https://github.com/facebook/create-react-app) to use [emotion](https://emotion.sh/docs/introduction) easily.
 
