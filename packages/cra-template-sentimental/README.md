@@ -2,9 +2,7 @@
 
 This is template for [Create React App](https://github.com/facebook/create-react-app) to use [emotion](https://emotion.sh/docs/introduction) easily.
 
-To use this template, add `--template sentimental` when creating a new app.
-
-For example:
+## Install
 
 ```sh
 npx create-react-app my-app --template sentimental
@@ -13,3 +11,9 @@ npx create-react-app my-app --template sentimental
 
 yarn create react-app my-app --template sentimental
 ```
+
+## Support
+
+- Support emotion
+- Support prettier 
+  - If you need to revise settings, modify on ~/.vscode/settings.json
